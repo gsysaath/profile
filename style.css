@@ -40,8 +40,12 @@ h2 {
 }
 
 a {
-  color : #cb997e;
+  color : #9d6b53;
   font-size : 24px;
+}
+
+a:hover {
+  color: #e6b8a2;
 }
 
 .card {
